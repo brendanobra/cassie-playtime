@@ -16,3 +16,4 @@ libraryDependencies ++= Seq(
   	exclude("javax.jms","jms")
   	exclude("com.sun.jdmk","jmxtools")
 )
+

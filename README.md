@@ -1,4 +1,4 @@
 cassie-playtime
 ===============
 
-Explorations of Cassie
+Explorations with Twitter's Cassie: https://github.com/twitter/cassie 
